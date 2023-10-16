@@ -1,0 +1,6 @@
+[submodule "microservices/user-service"]
+	path = microservices/user-service
+	url = https://github.com/azeretywebprojects/microservice-user-service.git
+[submodule "microservices/reverse-service"]
+	path = microservices/reverse-service
+	url = git@github.com:azeretywebprojects/microservice-reverse-service.git
